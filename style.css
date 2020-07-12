@@ -22,6 +22,13 @@
   margin: 0 auto;
 }
 
+span {
+  display: inline-block;
+  font-size: 36px;
+  padding: 30px 50px 0 0;
+  cursor: pointer;
+}
+
 nav {
   position: fixed;
   width: 1920px;
@@ -92,8 +99,8 @@ nav #box #social a:nth-child(2) {
 
 #contant h1 {
   text-align: center;
-  margin-top: 46px;
-  margin-bottom: 60px;
+  margin-top: 150px;
+  margin-bottom: 100px;
   font-weight: 300;
   letter-spacing: 9.6px;
   font-size: 32px;
@@ -116,7 +123,7 @@ nav #box #social a:nth-child(2) {
 
 #contant #news > div h3 {
   color: green;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 300;
   letter-spacing: 3.6px;
   text-align: center;
@@ -190,9 +197,9 @@ nav #box #social a:nth-child(2) {
 }
 
 #contant #product div h2 {
-  color: orange;
+  color: #FA7C3B;
   font-size: 30px;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 7px;
 }
 
