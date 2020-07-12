@@ -38,7 +38,7 @@ nav {
     }
 
     #box {
-        margin: 59px auto 0;
+        margin: 50px 100px 0;
         width: 1200px;
         display: grid;
         grid-template-columns: 204px 351px 398px 120px 110px;
@@ -167,13 +167,13 @@ nav {
         text-align: center;
         position: relative;
         width: 1200px;
-        margin: 0 auto;
+        margin: 0 110px;
 
         div {
             width: 225px;
             position: absolute;
             top: 73px;
-            right: 161px;
+            left: 950px;
 
             h2 {
                 color: #FA7C3B;

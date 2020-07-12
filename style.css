@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 nav #box {
-  margin: 59px auto 0;
+  margin: 50px 100px 0;
   width: 1200px;
   display: -ms-grid;
   display: grid;
@@ -186,14 +186,14 @@ nav #box #social a:nth-child(2) {
   text-align: center;
   position: relative;
   width: 1200px;
-  margin: 0 auto;
+  margin: 0 110px;
 }
 
 #contant #product div {
   width: 225px;
   position: absolute;
   top: 73px;
-  right: 161px;
+  left: 950px;
 }
 
 #contant #product div h2 {
